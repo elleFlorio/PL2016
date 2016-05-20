@@ -11,3 +11,11 @@ This repository contains all the exercises on Haskell presented during the exerc
 * type synonyms
 * newtype vs data
 * functions currying and composition
+
+2016-05-20 : Second lecture
+* boolean guards
+* case expression
+* folds
+* where
+* let
+* case expression
