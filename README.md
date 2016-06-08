@@ -19,3 +19,8 @@ This repository contains all the exercises on Haskell presented during the exerc
 * where
 * let
 * case expression
+
+2016-06-08 : Third lecture
+* trees
+* typeclass
+* monads (introduction)
