@@ -24,3 +24,8 @@ This repository contains all the exercises on Haskell presented during the exerc
 * trees
 * typeclass
 * monads (introduction)
+
+2016-06-10 : Fourth lecture
+* Logger Monad (Functor, Applicative, Monad)
+* example using Logger Monad
+* Application of Logger Monad to trees
