@@ -29,3 +29,9 @@ This repository contains all the exercises on Haskell presented during the exerc
 * Logger Monad (Functor, Applicative, Monad)
 * example using Logger Monad
 * Application of Logger Monad to trees
+
+2016-06-15 : Fifth lecture (final)
+* State Monad
+* Stack implementation
+* Double Stack example (homework 2015)
+* Exam training
